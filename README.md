@@ -1,53 +1,139 @@
 <div align="center">
-    <img src="[Link to your Pikachu coding image - Placeholder]" alt="Pikachu Coding" width="250" style="border-radius: 50%;">
-    <h1>Gotta Code 'Em All!</h1>
-    <p>NIT Durgapur | B.Tech CSE (2nd Year) | Competitive Coder & Full-Stack Trainer</p>
+  <img src="https://fontmeme.com/permalink/241212/8b623837482348234.png" alt="Pokemon Font" width="600">
+  <br>
+  <br>
+  <img src="https://play.pokemonshowdown.com/sprites/xyani/charizard.gif" width="150">
+  <h1>⚡ TRAINER ULLAS DAS WANTS TO BATTLE! ⚡</h1>
 </div>
 
 ---
 
-## 🎯 Trainer Card: Status & Goals
+### 🆔 **TRAINER LEAGUE CARD**
+<table width="100%">
+  <tr>
+    <td width="60%">
+      <h3>👤 TRAINER INFO</h3>
+      <ul>
+        <li><b>Name</b>: Ullas Das</li>
+        <li><b>Class</b>: Computer Science Student</li>
+        <li><b>Region</b>: NIT Durgapur</li>
+        <li><b>Type</b>: <code>Code</code> / <code>Data</code></li>
+        <li><b>Nature</b>: <b>Hardy</b> (Never gives up!)</li>
+        <li><b>Buddy</b>: Charizard 🔥</li>
+      </ul>
+      <br>
+      <img src="./assets/header_league_stats.png" height="50" alt="LEAGUE STATS">
+      <ul>
+        <li><a href="https://leetcode.com/u/UllasDas004"><img src="./assets/stat_pokedex.png" height="50" alt="Pokedex Caught"></a></li>
+        <li><a href="https://leetcode.com/u/UllasDas004"><img src="./assets/stat_kanto.png" height="50" alt="Kanto League"></a></li>
+        <li><a href="https://codeforces.com/profile/UllasDas004"><img src="./assets/stat_sinnoh.png" height="50" alt="Sinnoh League"></a></li>
+        <li><a href="https://www.codechef.com/users/UllasDas004"><img src="./assets/stat_hoenn.png" height="50" alt="Hoenn League"></a></li>
+      </ul>
+      <i>(Click'em to see detailed league stats)</i>
+    </td>
+    <td width="40%" align="center" valign="center">
+      <img src="https://i.pinimg.com/originals/99/d0/55/99d0554c965c49080b0318621146752d.gif" width="100%" alt="Pokedex Loading">
+      <br>
+      <i>"Gotta Solve 'Em All!"</i>
+    </td>
+  </tr>
+</table>
 
-I am a 2nd-year CSE student at **NIT Durgapur** with a strong $9.07$ CGPA (a powerful starter Pokémon!). My current quest is to join the **Elite Four (Big Tech SDE/SWE)** and build systems worthy of a Gym Leader.
+---
 
-| Category | Status | Achievement |
-| :--- | :--- | :--- |
-| **Pokedex Completion (DSA)** | **$550+$ Pokémon Caught!** | Solved $\mathbf{550+}$ LeetCode problems (Training complete for most Gym Battles). |
-| **Battle Rating (Codeforces)** | **High Rank Trainer ($1355$)** | A focused Codeforces competitor, constantly aiming for the next League (rating). |
-| **Battle Rating (CodeChef)** | **Focused Trainer ($1571$)** | Practicing speed and efficiency for long CodeChef tournaments. |
-| **Current Pokémon Team (Stack)** | **High-Level Squad** | Proficient in Python, Fast API, and Postman for backend architecture. |
-
-> *"My training is not just about solving Puzzles (DSA), but about building a reliable, scalable Poké Ball (Backend System)!"*
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="./assets/header_badges.png" height="80" alt="GYM BADGES">
+      </div>
+      <table border="0">
+        <tr>
+          <td width="45"><img src="./assets/boulder.png" width="40"></td>
+          <td><b>Boulder Badge</b>: Strong fundamentals in C, C++, Python</td>
+        </tr>
+        <tr>
+          <td width="45"><img src="./assets/cascade.png" width="40"></td>
+          <td><b>Cascade Badge</b>: Fluency in coding with Data Structures</td>
+        </tr>
+        <tr>
+          <td width="45"><img src="./assets/thunder.png" width="40"></td>
+          <td><b>Thunder Badge</b>: Speed in Competitive Programming</td>
+        </tr>
+        <tr>
+          <td width="45"><img src="./assets/rainbow.png" width="40"></td>
+          <td><b>Rainbow Badge</b>: Python libraries and other technologies</td>
+        </tr>
+        <tr>
+          <td width="45"><img src="./assets/soul.png" width="40"></td>
+          <td><b>Soul Badge</b>: Love for Math and CP</td>
+        </tr>
+        <tr>
+          <td width="45"><img src="./assets/marsh.png" width="40"></td>
+          <td><b>Marsh Badge</b>: Problem Solving</td>
+        </tr>
+        <tr>
+          <td width="45"><img src="./assets/volcano.png" width="40"></td>
+          <td><b>Volcano Badge</b>: Burning passion for success</td>
+        </tr>
+        <tr>
+          <td width="45"><img src="./assets/earth.png" width="40"></td>
+          <td><b>Earth Badge</b>: Always ready to learn new things</td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="./assets/header_moveset.png" height="80" alt="MOVESET">
+      </div>
+      <div align="center">
+        <h4 align="center">Languages</h4>
+        <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql&theme=dark" />
+        <br><br>
+        <h4 align="center">Technologies & Frameworks</h4>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,fastapi,postman,postgres&theme=dark" />
+        <br>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## ⚙️ The Tech Stack (My Pokémon Team)
-
-My current team composition is optimized for building robust, high-speed web services and complex backends.
-
-### 🛡️ Core Languages & Frameworks (Starters)
-
-* **Python:** My primary language for backend development and scripting.
-* **FastAPI:** The fastest-known **Electric-type** framework for building high-performance APIs.
-* **PostgreSQL:** My trusted **Water/Ground-type** database for reliable data storage.
-
-### 🌐 Tools & Utility Moves (Support Moves)
-
-* **Postman:** For testing API endpoints and ensuring system integrity.
-* **Git/GitHub:** Tracking every capture and evolution in my coding journey.
+### <img src="./assets/header_stats.png" height="80" alt="BATTLE STATS">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UllasDas004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6" height="150" alt="Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UllasDas004&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=ffaa00" height="150" alt="Streak"/>
+</p>
 
 ---
 
-## ✨ Notable Achievements (Badges Earned)
-
-* **The Theory Badge:** Maintaining an outstanding **9.07 CGPA** in B.Tech CSE.
-* **The $550$ Badge:** Successfully conquered over $550$ algorithm challenges on LeetCode.
-* **The Contest Badge:** Consistent participation and proven ranking in Codeforces and CodeChef.
+### <img src="./assets/header_snake.png" height="80" alt="ADVENTURE LOG">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UllasDas004/UllasDas004/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+</p>
 
 ---
+
+### <img src="./assets/header_terminal.png" height="80" alt="POKEDEX TERMINAL">
+```bash
+> connecting to link_cable...
+> connection established!
+> status: ready_to_collab
+> target: "FAANG"
+> current_quest: "Backend Dev + CP"
+```
 
 <div align="center">
-    <h3>"A true trainer never stops learning new moves."</h3>
-    <p>Currently focusing on **System Design** and advanced Database optimization.</p>
-    <img src="[Link to a subtle cute Pokémon GIF/Image, e.g., a simple Poké Ball or a waving Pikachu]" alt="Pokeball or Waving Pikachu" width="100">
+  <a href="https://www.linkedin.com/in/ullas-das">
+    <img src="https://img.shields.io/badge/LINK_CABLE-CONNECT-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
+
+<br>
+<center>
+  <img src="https://i.gifer.com/origin/28/2860d2d8c3a1e402e0fc8913cd92cd7a_w200.gif" width="60">
+  <p><i>Saving game... Don't turn off the power!</i></p>
+</center>
