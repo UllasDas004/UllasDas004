@@ -3,7 +3,7 @@ from PIL import Image, ImageDraw, ImageFont
 # Config
 OUTPUT_FILE = "assets/pokedex_bug.png"
 FONT_PATH = "assets/PokemonGb-RAeo.ttf"
-TEXT = "There is a bug,\nGotta Solve\n'Em All!!!"
+TEXT = "There is some bugs,\nGotta Solve\n'Em All!!!"
 
 # Colors
 COLOR_RED = "#DC0A2D"

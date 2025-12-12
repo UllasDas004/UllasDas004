@@ -100,13 +100,6 @@
 
 ---
 
-### <img src="./assets/header_stats.png" height="80" alt="BATTLE STATS">
-  <img src="https://github-readme-stats.vercel.app/api?username=UllasDas004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6" height="150" alt="Stats"/>
-  <img src="https://streak-stats.demolab.com?user=UllasDas004&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=ffaa00" height="150" alt="Streak"/>
-</p>
-
----
-
 <div align="center">
   <img src="./assets/header_quests.png" height="80" alt="CURRENT QUESTS">
 </div>
@@ -143,6 +136,13 @@
 
 ---
 
+### <img src="./assets/header_stats.png" height="80" alt="BATTLE STATS">
+  <img src="https://github-readme-stats.vercel.app/api?username=UllasDas004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6" height="150" alt="Stats"/>
+  <img src="https://streak-stats.demolab.com?user=UllasDas004&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=ffaa00" height="150" alt="Streak"/>
+</p>
+
+---
+
 ### <img src="./assets/header_snake.png" height="80" alt="ADVENTURE LOG">
 <p align="center">
   <img src="https://raw.githubusercontent.com/UllasDas004/UllasDas004/output/github-contribution-grid-snake.svg" alt="Snake Animation">
@@ -150,19 +150,30 @@
 
 ---
 
-### <img src="./assets/header_terminal.png" height="80" alt="POKEDEX TERMINAL">
-```bash
+<div align="center">
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3><img src="./assets/header_terminal.png" height="50" alt="POKEDEX TERMINAL"></h3>
+      <div align="left">
+<pre>
 > connecting to link_cable...
 > connection established!
 > status: ready_to_collab
 > target: "Software Engineer"
 > current_quest: "Backend Dev + CP"
-```
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ullas-das">
-    <img src="https://img.shields.io/badge/LINK_CABLE-CONNECT-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+</pre>
+      </div>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3><img src="./assets/header_socials.png" height="50" alt="CHOOSE YOUR STARTER"></h3>
+      <p><i>Who will you choose?</i></p>
+      <a href="mailto:ullasdas004@gmail.com"><img src="./assets/social_grass.png" width="90%"></a><br>
+      <a href="https://linkedin.com/in/ullas-das"><img src="./assets/social_fire.png" width="90%"></a><br>
+      <a href="https://instagram.com/random_taskstar"><img src="./assets/social_water.png" width="90%"></a>
+    </td>
+  </tr>
+</table>
 </div>
 
 <br>
