@@ -4,7 +4,8 @@
 </div>
 
 ### 🆔 **TRAINER LEAGUE CARD**
-<table width="100%">
+<div align="center">
+<table width="100%" align="center">
   <tr>
     <td width="60%">
       <h3>👤 TRAINER INFO</h3>
@@ -32,10 +33,12 @@
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
-<table width="100%">
+<div align="center">
+<table width="100%" align="center">
   <tr>
     <td width="50%" valign="top">
       <div align="center">
@@ -93,6 +96,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
