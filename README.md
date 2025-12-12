@@ -1,12 +1,7 @@
 <div align="center">
-  <img src="https://fontmeme.com/permalink/241212/8b623837482348234.png" alt="Pokemon Font" width="600">
-  <br>
-  <br>
-  <img src="https://play.pokemonshowdown.com/sprites/xyani/charizard.gif" width="150">
-  <h1>⚡ TRAINER ULLAS DAS WANTS TO BATTLE! ⚡</h1>
+  <img src="https://play.pokemonshowdown.com/sprites/xyani/charizard.gif" width="200">
+  <h1>⚡ Hey! I'm Ullas, Here to Code My Own Adventure ⚡</h1>
 </div>
-
----
 
 ### 🆔 **TRAINER LEAGUE CARD**
 <table width="100%">
@@ -17,22 +12,21 @@
         <li><b>Name</b>: Ullas Das</li>
         <li><b>Class</b>: Computer Science Student</li>
         <li><b>Region</b>: NIT Durgapur</li>
-        <li><b>Type</b>: <code>Code</code> / <code>Data</code></li>
+        <li><b>Type</b>: <code>Coder</code> / <code>Problem Solver</code></li>
         <li><b>Nature</b>: <b>Hardy</b> (Never gives up!)</li>
         <li><b>Buddy</b>: Charizard 🔥</li>
       </ul>
       <br>
       <img src="./assets/header_league_stats.png" height="50" alt="LEAGUE STATS">
-      <ul>
-        <li><a href="https://leetcode.com/u/UllasDas004"><img src="./assets/stat_pokedex.png" height="50" alt="Pokedex Caught"></a></li>
-        <li><a href="https://leetcode.com/u/UllasDas004"><img src="./assets/stat_kanto.png" height="50" alt="Kanto League"></a></li>
-        <li><a href="https://codeforces.com/profile/UllasDas004"><img src="./assets/stat_sinnoh.png" height="50" alt="Sinnoh League"></a></li>
-        <li><a href="https://www.codechef.com/users/UllasDas004"><img src="./assets/stat_hoenn.png" height="50" alt="Hoenn League"></a></li>
-      </ul>
+      <br>
+      <a href="https://leetcode.com/u/UllasDas004"><img src="./assets/stat_pokedex.png" height="50" alt="Pokedex Caught"></a><br>
+      <a href="https://leetcode.com/u/UllasDas004"><img src="./assets/stat_kanto.png" height="50" alt="Kanto League"></a><br>
+      <a href="https://codeforces.com/profile/UllasDas004"><img src="./assets/stat_sinnoh.png" height="50" alt="Sinnoh League"></a><br>
+      <a href="https://www.codechef.com/users/UllasDas004"><img src="./assets/stat_hoenn.png" height="50" alt="Hoenn League"></a><br>
       <i>(Click'em to see detailed league stats)</i>
     </td>
     <td width="40%" align="center" valign="center">
-      <img src="https://i.pinimg.com/originals/99/d0/55/99d0554c965c49080b0318621146752d.gif" width="100%" alt="Pokedex Loading">
+      <img src="./assets/pokedex_bug.png" width="100%" alt="Pokedex Bug">
       <br>
       <i>"Gotta Solve 'Em All!"</i>
     </td>

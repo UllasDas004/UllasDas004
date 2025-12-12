@@ -22,7 +22,7 @@ FONT_HEADER = "assets/Pokemon Solid.ttf" # Standard Header Font
 # Stats Config
 STAT_FONT_SIZE_MAIN = 20
 STAT_FONT_SIZE_SUB = 12
-STAT_TEXT_COLOR = "#000000" # Black for Pokedex style text
+STAT_TEXT_COLOR = "#FFFFFF" # White for Pokedex style text
 STAT_PADDING = 10
 
 # Header Config
