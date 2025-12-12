@@ -1,5 +1,9 @@
 from PIL import Image, ImageDraw, ImageFont
 import textwrap
+import os
+
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ASSETS_DIR = os.path.join(BASE_DIR, "assets")
 
 # --- 🗺️ UPDATE YOUR QUESTS HERE 🗺️ ---
 # Format: "Filename": ("Title", "Description", ["Tech"], "Level")
@@ -24,8 +28,8 @@ CATEGORIES = {
 }
 
 # Config
-FONT_TEXT = "assets/PokemonGb-RAeo.ttf"
-FONT_HEADER = "assets/Pokemon Solid.ttf"
+FONT_TEXT = os.path.join(ASSETS_DIR, "PokemonGb-RAeo.ttf")
+FONT_HEADER = os.path.join(ASSETS_DIR, "Pokemon Solid.ttf")
 
 # Colors
 COLOR_BG = "#383838"      
@@ -73,7 +77,7 @@ def draw_quest_card(filename, title, desc, techs, level):
     tech_str = "Loot: " + ", ".join(techs)
     draw.text((20, height - 30), tech_str, font=font_small, fill=COLOR_ACCENT)
 
-    img.save(f"assets/{filename}")
+    img.save(os.path.join(ASSETS_DIR, filename))
     print(f"Generated {filename}")
 
 def generate_header(text, filename):
@@ -90,7 +94,7 @@ def generate_header(text, filename):
     draw = ImageDraw.Draw(img)
     draw.text((20, 20), text, font=font, fill=COLOR_TITLE, stroke_width=4, stroke_fill=COLOR_ACCENT)
     
-    img.save(f"assets/{filename}")
+    img.save(os.path.join(ASSETS_DIR, filename))
     print(f"Generated {filename}")
 
 if __name__ == "__main__":

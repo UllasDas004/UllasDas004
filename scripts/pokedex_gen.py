@@ -1,8 +1,11 @@
-from PIL import Image, ImageDraw, ImageFont
+import os
 
 # Config
-OUTPUT_FILE = "assets/pokedex_bug.png"
-FONT_PATH = "assets/PokemonGb-RAeo.ttf"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ASSETS_DIR = os.path.join(BASE_DIR, "assets")
+
+OUTPUT_FILE = os.path.join(ASSETS_DIR, "pokedex_bug.png")
+FONT_PATH = os.path.join(ASSETS_DIR, "PokemonGb-RAeo.ttf")
 TEXT = "There is\nsome bugs,\nGotta Solve\n'Em All!"
 
 # Colors

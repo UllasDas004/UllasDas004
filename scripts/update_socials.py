@@ -1,4 +1,8 @@
 from PIL import Image, ImageDraw, ImageFont
+import os
+
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ASSETS_DIR = os.path.join(BASE_DIR, "assets")
 
 # --- 🌱🔥💧 UPDATE SOCIALS HERE 💧🔥🌱 ---
 SOCIALS = {
@@ -11,8 +15,8 @@ HEADER_TEXT = "CHOOSE YOUR STARTER"
 HEADER_FILE = "header_socials.png"
 
 # Config
-FONT_TEXT = "assets/PokemonGb-RAeo.ttf"
-FONT_HEADER = "assets/Pokemon Solid.ttf"
+FONT_TEXT = os.path.join(ASSETS_DIR, "PokemonGb-RAeo.ttf")
+FONT_HEADER = os.path.join(ASSETS_DIR, "Pokemon Solid.ttf")
 COLOR_BG = "#383838"      
 COLOR_TEXT = "#FFFFFF"    
 
@@ -51,7 +55,7 @@ def draw_social_card(filename, type_name, label, value, color_primary, color_dar
     draw.ellipse([cx-15, cy-15, cx+15, cy+15], fill=color_primary) 
     # Just a colored dot to represent the type energy
 
-    img.save(f"assets/{filename}")
+    img.save(os.path.join(ASSETS_DIR, filename))
     print(f"Generated {filename}")
 
 def generate_header():
@@ -68,7 +72,7 @@ def generate_header():
     draw = ImageDraw.Draw(img)
     draw.text((20, 20), HEADER_TEXT, font=font, fill="#FFCB05", stroke_width=4, stroke_fill="#3C5AA6")
     
-    img.save(f"assets/{HEADER_FILE}")
+    img.save(os.path.join(ASSETS_DIR, HEADER_FILE))
     print(f"Generated {HEADER_FILE}")
 
 if __name__ == "__main__":
