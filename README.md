@@ -101,9 +101,8 @@
 ---
 
 ### <img src="./assets/header_stats.png" height="80" alt="BATTLE STATS">
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UllasDas004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6" height="150" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UllasDas004&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=ffaa00" height="150" alt="Streak"/>
+  <img src="https://streak-stats.demolab.com?user=UllasDas004&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=ffaa00" height="150" alt="Streak"/>
 </p>
 
 ---
