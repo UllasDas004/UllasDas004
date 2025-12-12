@@ -116,7 +116,7 @@
 > connecting to link_cable...
 > connection established!
 > status: ready_to_collab
-> target: "FAANG"
+> target: "Software Engineer"
 > current_quest: "Backend Dev + CP"
 ```
 
