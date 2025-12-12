@@ -107,6 +107,42 @@
 
 ---
 
+<div align="center">
+  <img src="./assets/header_quests.png" height="80" alt="CURRENT QUESTS">
+</div>
+
+<!-- DSA & CP -->
+<div align="center">
+  <img src="./assets/header_cat_dsa.png" height="40" alt="DSA & CP">
+  <br>
+  <a href="https://github.com/UllasDas004/TLE-Eliminator-s-CP31"><img src="./assets/quest_cp_1.png" width="90%"></a><br>
+  <a href="https://github.com/UllasDas004/DSA-WITH-CPP-Learning-"><img src="./assets/quest_cp_2.png" width="90%"></a><br>
+  <a href="https://github.com/UllasDas004/CSES-Problem-Set"><img src="./assets/quest_cp_3.png" width="90%"></a>
+</div>
+<br>
+
+<!-- Backend -->
+<div align="center">
+  <img src="./assets/header_cat_backend.png" height="40" alt="Backend">
+  <br>
+  <a href="#"><img src="./assets/quest_be_1.png" width="90%"></a>
+</div>
+<br>
+
+<!-- ML -->
+<div align="center">
+  <img src="./assets/header_cat_ml.png" height="40" alt="Machine Learning">
+  <br>
+  <a href="#"><img src="./assets/quest_ml_1.png" width="90%"></a>
+</div>
+<br>
+
+<div align="center">
+  <i>(Select a quest to warp to repository)</i>
+</div>
+
+---
+
 ### <img src="./assets/header_snake.png" height="80" alt="ADVENTURE LOG">
 <p align="center">
   <img src="https://raw.githubusercontent.com/UllasDas004/UllasDas004/output/github-contribution-grid-snake.svg" alt="Snake Animation">
