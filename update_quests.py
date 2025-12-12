@@ -99,3 +99,5 @@ if __name__ == "__main__":
         generate_header(cat_name, header_file)
         for fname, data in quests.items():
             draw_quest_card(fname, *data)
+    generate_header("TRAINER LEAGUE CARD", "header_trainer_card.png")
+    generate_header("TRAINER INFO", "header_trainer_info.png")

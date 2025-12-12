@@ -3,7 +3,7 @@ from PIL import Image, ImageDraw, ImageFont
 # Config
 OUTPUT_FILE = "assets/pokedex_bug.png"
 FONT_PATH = "assets/PokemonGb-RAeo.ttf"
-TEXT = "There is some bugs,\nGotta Solve\n'Em All!!!"
+TEXT = "There is\nsome bugs,\nGotta Solve\n'Em All!"
 
 # Colors
 COLOR_RED = "#DC0A2D"
@@ -52,7 +52,7 @@ def draw_pokedex():
 
     # 7. Text
     try:
-        font = ImageFont.truetype(FONT_PATH, 18) # Reduced font size for better fit
+        font = ImageFont.truetype(FONT_PATH, 25) # Reduced font size for better fit
     except:
         font = ImageFont.load_default()
         print("Default font loaded")
