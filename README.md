@@ -8,7 +8,7 @@
 <table width="100%" align="center">
   <tr>
     <td width="60%">
-      <h3><img src="./assets/header_trainer_info.png" height="30" alt="TRAINER INFO"></h3>
+      <h3><img src="./assets/header_trainer_info.png" height="50" alt="TRAINER INFO"></h3>
       <ul>
         <li><b>Name</b>: Ullas Das</li>
         <li><b>Class</b>: Computer Science Student</li>
