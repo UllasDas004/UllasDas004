@@ -7,9 +7,9 @@ ASSETS_DIR = os.path.join(BASE_DIR, "assets")
 # --- 📊 UPDATE YOUR STATS HERE 📊 ---
 STATS = {
     "stat_pokedex.png": ("Caught", "550+", "LeetCode Questions"),
-    "stat_kanto.png": ("Kanto BP", "1856", "LeetCode Rating"),
-    "stat_sinnoh.png": ("Sinnoh BP", "1432", "Codeforces Rating"),
-    "stat_hoenn.png": ("Hoenn BP", "1602", "CodeChef Rating")
+    "stat_kanto.png": ("Kanto BP", "1655", "LeetCode Rating"),
+    "stat_sinnoh.png": ("Sinnoh BP", "1229", "Codeforces Rating"),
+    "stat_hoenn.png": ("Hoenn BP", "1554", "CodeChef Rating")
 }
 
 HEADER_TEXT = "LEAGUE STATS"
@@ -25,24 +25,24 @@ COLOR_TEXT = "#FFFFFF"     # White
 COLOR_SHADOW = "#000000"   # Black Drop Shadow
 
 def draw_stat_badge(filename, label, value, subtext):
-    # Width increased for subtext
-    img = Image.new("RGBA", (250, 50), (0, 0, 0, 0))
+    # Adjusted width and font to balance fit and readability
+    img = Image.new("RGBA", (225, 50), (0, 0, 0, 0))
     draw = ImageDraw.Draw(img)
 
     try:
-        font_main = ImageFont.truetype(FONT_PATH, 20)
-        font_sub = ImageFont.truetype(FONT_PATH, 10)
+        font_main = ImageFont.truetype(FONT_PATH, 14) # Slightly smaller
+        font_sub = ImageFont.truetype(FONT_PATH, 9)   # Readable subtext
     except:
         font_main = ImageFont.load_default()
         font_sub = ImageFont.load_default()
 
     # Draw Main Stat (Value)
     text = f"{label}: {value}"
-    draw.text((2, 2), text, font=font_main, fill=COLOR_SHADOW) # Shadow
-    draw.text((0, 0), text, font=font_main, fill=COLOR_TEXT)   # Main
+    draw.text((7, 7), text, font=font_main, fill=COLOR_SHADOW) # Shadow
+    draw.text((5, 5), text, font=font_main, fill=COLOR_TEXT)   # Main
 
     # Draw Subtext (Platform)
-    draw.text((2, 25), subtext, font=font_sub, fill="#DDDDDD")
+    draw.text((5, 30), subtext, font=font_sub, fill="#DDDDDD")
 
     img.save(os.path.join(ASSETS_DIR, filename))
     print(f"Generated {filename}")
