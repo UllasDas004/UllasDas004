@@ -137,9 +137,21 @@
 ---
 
 ### <img src="./assets/header_stats.png" height="80" alt="BATTLE STATS">
-  <img src="https://github-readme-stats.vercel.app/api?username=UllasDas004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6" height="150" alt="Stats"/>
-  <img src="https://streak-stats.demolab.com?user=UllasDas004&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=ffaa00" height="150" alt="Streak"/>
-</p>
+
+<div align="center">
+<table align="center" width="100%">
+  <tr>
+    <td width="55%" valign="center" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=UllasDas004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6" height="150" alt="Stats"/>
+      <br>
+      <img src="https://streak-stats.demolab.com?user=UllasDas004&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=ffaa00" height="150" alt="Streak"/>
+    </td>
+    <td width="45%" valign="center" align="center">
+      <img src="./assets/Ash%20and%20pikachu.gif" width="100%">
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
@@ -179,5 +191,4 @@
 <br>
 <center>
   <img src="https://i.gifer.com/origin/28/2860d2d8c3a1e402e0fc8913cd92cd7a_w200.gif" width="60">
-  <p><i>Saving game... Don't turn off the power!</i></p>
 </center>
