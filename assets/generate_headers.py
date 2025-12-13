@@ -14,7 +14,9 @@ headers = {
     "header_moveset.png": "MOVESET",
     "header_stats.png": "BATTLE STATS",
     "header_snake.png": "ADVENTURE LOG",
-    "header_terminal.png": "POKEDEX TERMINAL"
+    "header_terminal.png": "POKEDEX TERMINAL",
+    "header_journal.png": "TRAINER'S JOURNAL",
+    "header_hall_of_fame.png": "HALL OF FAME"
 }
 
 def generate_header(filename, text):

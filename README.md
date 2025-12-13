@@ -156,9 +156,41 @@
 ---
 
 ### <img src="./assets/header_snake.png" height="80" alt="ADVENTURE LOG">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/UllasDas004/UllasDas004/output/github-contribution-grid-snake.svg" alt="Snake Animation">
-</p>
+<div align="center">
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="./assets/header_journal.png" height="50" alt="Trainer's Journal">
+      </div>
+      <blockquote>
+      <ul>
+        <li><b>Aug 26, 2024</b>: Started my adventure! College began, and I took <code>C</code> as my starter.</li>
+        <li><b>Dec 01, 2024</b>: Evolved my skills! Entered the <b>DSA</b> Gym training with <code>C++</code>.</li>
+        <li><b>May 01, 2025</b>: Challengers approaching! Started battling on <b>Codeforces</b> & <b>CodeChef</b>.</li>
+        <li><b>June 2025</b>: Gym Leader defeated! Completed the core <b>DSA</b> training.</li>
+        <li><b>Nov 2025</b>: The Big Leagues! Participated in my first <b>ICPC</b> prelims.</li>
+        <li><b>Dec 2025</b>: Tech Expansion! Started learning <b>FastAPI</b> & Python libraries. Currently building a <b>Social Media API</b>.</li>
+      </ul>
+      </blockquote>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="./assets/header_hall_of_fame.png" height="50" alt="Hall of Fame">
+      </div>
+      <div align="center">
+        <br>
+        <i>Current Champion Team:</i><br>
+        <b>Training in progress...</b>
+        <br><br>
+        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="20">
+        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="20">
+        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="20">
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
