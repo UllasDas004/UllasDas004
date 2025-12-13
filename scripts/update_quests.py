@@ -14,7 +14,7 @@ QUESTS_DSA = {
 }
 
 QUESTS_BACKEND = {
-    "quest_be_1.png": ("FastAPI Service", "High performance backend.", ["Python", "FastAPI"], "Lv. 20")
+    "quest_be_1.png": ("FastAPI Social Media API", "Robust full-featured Social Media RESTful API.", ["Python", "FastAPI", "SQLAlchemy", "PostgreSQL"], "Lv. 25")
 }
 
 QUESTS_ML = {
