@@ -223,4 +223,6 @@
 <br>
 <center>
   <img src="https://i.gifer.com/origin/28/2860d2d8c3a1e402e0fc8913cd92cd7a_w200.gif" width="60">
+  <br>
+        <i>Saving Progress...</i><br>
 </center>
