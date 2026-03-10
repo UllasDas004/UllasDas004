@@ -6,9 +6,9 @@ ASSETS_DIR = os.path.join(BASE_DIR, "assets")
 
 # --- 📊 UPDATE YOUR STATS HERE 📊 ---
 STATS = {
-    "stat_pokedex.png": ("Caught", "600+", "LeetCode Questions"),
-    "stat_kanto.png": ("Kanto BP", "1750", "LeetCode Rating"),
-    "stat_sinnoh.png": ("Sinnoh BP", "1324", "Codeforces Rating"),
+    "stat_pokedex.png": ("Caught", "700+", "LeetCode Questions"),
+    "stat_kanto.png": ("Kanto BP", "1860", "LeetCode Rating"),
+    "stat_sinnoh.png": ("Sinnoh BP", "1486", "Codeforces Rating"),
     "stat_hoenn.png": ("Hoenn BP", "1633", "CodeChef Rating")
 }
 

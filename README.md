@@ -118,7 +118,8 @@
 <div align="center">
   <img src="./assets/header_cat_backend.png" height="40" alt="Backend">
   <br>
-  <a href="https://github.com/UllasDas004/FastAPI-Social-Media-API"><img src="./assets/quest_be_1.png" width="90%"></a>
+  <a href="https://github.com/UllasDas004/FastAPI-Social-Media-API"><img src="./assets/quest_be_1.png" width="90%"></a><br>
+  <a href="https://book-store-management-api.onrender.com/docs"><img src="./assets/quest_be_2.png" width="90%"></a>
 </div>
 <br>
 

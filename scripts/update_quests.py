@@ -14,7 +14,8 @@ QUESTS_DSA = {
 }
 
 QUESTS_BACKEND = {
-    "quest_be_1.png": ("FastAPI Social Media API", "Robust full-featured Social Media RESTful API.", ["Python", "FastAPI", "SQLAlchemy", "PostgreSQL"], "Lv. 25")
+    "quest_be_1.png": ("FastAPI Social Media API", "Robust full-featured Social Media RESTful API.", ["Python", "FastAPI", "SQLAlchemy", "PostgreSQL"], "Lv. 25"),
+    "quest_be_2.png": ("Book Store Management", "FastAPI backend deployed on Render.", ["FastAPI", "Python", "Render"], "Lv. 30")
 }
 
 QUESTS_ML = {
